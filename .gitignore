@@ -1,9 +1,14 @@
-# created by virtualenv automatically
-Lib
-Scripts
-pyvenv.cfg
+# Pliki i katalogi tymczasowe
+__pycache__/
+*.pyc
 
-*.png
-*.jpg
-*.bmp
+# Środowisko wirtualne Pythona
+venv/
+env/
+*.env
+
+# Pliki do wykluczenia
 *.pdf
+*.bmp
+*.jpg
+*.png
