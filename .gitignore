@@ -9,6 +9,4 @@ env/
 
 # Pliki do wykluczenia
 *.pdf
-*.bmp
-*.jpg
-*.png
+*.odt
